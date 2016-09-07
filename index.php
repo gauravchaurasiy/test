@@ -75,7 +75,7 @@ include_once('classes/adminsessioncheck.php');
             </div>
         </div>
         <!-- End Container -->
-
+<?php include_once('includes/footer.php'); ?>
         <?php include_once('includes/footer.php'); ?>
 
     </body>
